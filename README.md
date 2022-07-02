@@ -1,6 +1,6 @@
 Paola Briseño, UAM - I, 2022.
 
-Diseño y simulación (teórico/SPICE) de un filtro pasa-bajas con la siguiente especificación:
+Diseño y simulación (teórico/SPICE) de dos filtros (uno pasa-bajas y otro pasa-altas) con la siguiente especificación:
 
 máxima atenuación en la banda de paso: 0.1 dB
 mínima atenuación en la banda de rechazo: 60 dB
