@@ -1,4 +1,3 @@
-Diseño de filtro Butterworth Pasa Bajas
 Paola Briseño, UAM - I, 2022.
 
 Diseño y simulación (teórico/SPICE) de un filtro pasa-bajas con la siguiente especificación:
